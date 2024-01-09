@@ -1,0 +1,21 @@
+div {
+    background-color: red;
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20;
+}
+
+#navbar{
+    color: red;
+    font-size: 20;
+}
+
+#sidebar{
+    color: blue;
+    font-size: 16;
+}
+
+#main{
+    color: green;
+    font-size: 12;
+}
